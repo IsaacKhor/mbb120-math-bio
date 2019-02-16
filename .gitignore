@@ -2,3 +2,4 @@ lab2/
 __pycache__/
 test-data/
 .DS_Store
+*.png
